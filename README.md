@@ -1,11 +1,7 @@
 # 👋 Oi, Eu sou Ivande Coelho!
-## Bem vindo ao meu perfil GitHub 👋
-
 Bem-vindo ao meu perfil do GitHub! Sou um professor e desenvolvedor apaixonado por tecnologia e educação. Aqui você encontrará alguns projetos relacionados à programação.
 
-
-
-## Projetos Destacados
+## Projetos Destacados:
 
 ### 1. [SEDGE  - Sistema de Gerenciamento de visitas tecnicas](https://github.com/IvandeCoelho/SEDGE)
 
@@ -14,7 +10,6 @@ Projeto desenvolvido como trabalho de conclusão de curso durante minha jornada 
 
 
 ## Contatos:
-
 Fique à vontade para entrar em contato comigo.
 <div>
 <a href="https://www.youtube.com/@IvandeCoelho" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -27,8 +22,7 @@ Espero que encontre algo interessante em meus projetos. Sinta-se à vontade para
 
 Happy coding! 🚀
 
-
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias:
 - ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -44,7 +38,5 @@ Happy coding! 🚀
 
 
 ## Estatísticas GitHub:
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvandeCoelho&show_icons=true&theme=default&locale=pt-br)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvandeCoelho&layout=compact&locale=pt-br&theme=defaul)

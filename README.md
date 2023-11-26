@@ -42,5 +42,5 @@ Happy coding! 🚀
 
 
 ## Estatísticas GitHub:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvandeCoelho&show_icons=true&theme=default&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvandeCoelho&layout=compact&locale=pt-br&theme=defaul)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvandeCoelho&show_icons=true&theme=dark&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvandeCoelho&layout=compact&locale=pt-br&theme=dark)

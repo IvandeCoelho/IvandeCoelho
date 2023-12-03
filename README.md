@@ -9,6 +9,10 @@ Bem-vindo ao meu perfil do GitHub! Sou um professor e desenvolvedor apaixonado p
 
 Projeto desenvolvido como trabalho de conclusão de curso durante minha jornada no IFCE. O foco do projeto foi a expansão de uma parte específica de um site existente, destinada ao gerenciamento de visitas técnicas. Meu objetivo era otimizar o agendamento e acompanhamento dessas visitas, proporcionando uma experiência mais eficiente para alunos e professores, oferecendo uma interface intuitiva e funcional.
 
+### 2. [Gerador de Senhas Personalizadas](https://github.com/IvandeCoelho/geradorSenha)
+
+Este é um gerador de senhas personalizadas, desenvolvido em Python utilizando a biblioteca Tkinter para a interface gráfica. Este programa oferece a funcionalidade de gerar senhas seguras e personalizadas com base nos critérios definidos pelo usuário.
+
 
 
 ## Contatos:

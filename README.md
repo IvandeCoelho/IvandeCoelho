@@ -11,7 +11,7 @@ Projeto desenvolvido como trabalho de conclusão de curso durante minha jornada 
 
 ### 2. [Gerador de Senhas Personalizadas](https://github.com/IvandeCoelho/geradorSenha)
 
-Este é um gerador de senhas personalizadas, desenvolvido em Python utilizando a biblioteca Tkinter para a interface gráfica. Este programa oferece a funcionalidade de gerar senhas seguras e personalizadas com base nos critérios definidos pelo usuário.
+Este é um gerador de senhas personalizadas, desenvolvido em Python utilizando a biblioteca CustomTkinter para a interface gráfica. Este programa oferece a funcionalidade de gerar senhas seguras e personalizadas com base nos critérios definidos pelo usuário.
 
 
 

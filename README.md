@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Ivande Coelho
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=IvandeCoelho&color=FCC624&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=IvandeCoelho&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/IvandeCoelho?style=for-the-badge&logo=github" alt="followers" />
   <img src="https://img.shields.io/github/stars/IvandeCoelho?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=FCC624" alt="stargazers"/>
 </p>

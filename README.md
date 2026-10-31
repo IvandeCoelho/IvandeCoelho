@@ -48,7 +48,7 @@ Projeto desenvolvido para permitir o bloqueio de sites, aplicativos, jogos e ter
 - Configuração de horários e limites de uso.
 - Proteção por senha e histórico de bloqueios.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github)](https://github.com/IvandeCoelho/EasyBlock)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-brightgreen?style=for-the-badge&logo=github)](https://github.com/IvandeCoelho/EasyBlock)
 
 ### 2. [SEDGE — Sistema de Gerenciamento de Visitas Técnicas](https://github.com/IvandeCoelho/SEDGE)
 
@@ -56,7 +56,7 @@ Projeto desenvolvido como trabalho de conclusão de curso durante minha jornada 
 
 O sistema foi desenvolvido com foco no gerenciamento, agendamento e acompanhamento de visitas técnicas, buscando facilitar os processos para alunos e professores.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github)](https://github.com/IvandeCoelho/SEDGE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-brightgreen?style=for-the-badge&logo=github)](https://github.com/IvandeCoelho/SEDGE)
 
 ### 3. [Gerador de Senhas Personalizadas](https://github.com/IvandeCoelho/geradorSenha)
 
@@ -64,7 +64,7 @@ Aplicação desenvolvida em Python com interface gráfica utilizando CustomTkint
 
 Permite gerar senhas personalizadas de acordo com os critérios definidos pelo usuário.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github)](https://github.com/IvandeCoelho/geradorSenha)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-brightgreen?style=for-the-badge&logo=github)](https://github.com/IvandeCoelho/geradorSenha)
 
 ## 🛠️ Tecnologias e ferramentas
 

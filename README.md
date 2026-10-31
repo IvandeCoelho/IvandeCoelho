@@ -1,14 +1,14 @@
 # 👋 Olá! Eu sou Ivande Coelho
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=IvandeCoelho&color=yellow" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=IvandeCoelho&color=FCC624&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/IvandeCoelho?style=for-the-badge&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/IvandeCoelho?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=FCC624" alt="stargazers"/>
 </p>
 
 Sou **professor e desenvolvedor**, apaixonado por tecnologia, programação e educação.
 
 Utilizo a tecnologia como ferramenta para criar soluções, desenvolver projetos e compartilhar conhecimentos. Neste perfil, você encontrará projetos pessoais e acadêmicos, aplicações e experimentos relacionados ao desenvolvimento de software.
-
----
 
 ## 🚀 Projetos em destaque
 
@@ -19,6 +19,7 @@ Utilizo a tecnologia como ferramenta para criar soluções, desenvolver projetos
 Projeto desenvolvido para permitir o bloqueio de sites, aplicativos, jogos e termos definidos pelo usuário.
 
 **Principais recursos:**
+
 - Bloqueio de sites, aplicativos e jogos.
 - Bloqueio por termos.
 - Gerenciamento de listas online e locais.
@@ -43,47 +44,34 @@ Permite gerar senhas personalizadas de acordo com os critérios definidos pelo u
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github)](https://github.com/IvandeCoelho/geradorSenha)
 
----
-
 ## 🛠️ Tecnologias e ferramentas
-
-**Desenvolvimento Web**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Programação e Banco de Dados**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Design e Prototipação**
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-FF6F61?style=for-the-badge)
-
-**Versionamento e Ferramentas**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-**Eletrônica e Sistemas Embarcados**
-
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-F7DF1E?style=for-the-badge&logo=linux&logoColor=black)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Coellho)
 
----
+<br>
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=IvandeCoelho&show_icons=true&theme=dark&locale=pt-br" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvandeCoelho&layout=compact&locale=pt-br&theme=dark" />
+  <img height="200px" src="https://github-stats-extended.vercel.app/api?username=IvandeCoelho&show_icons=true&include_all_commits=true&theme=dark"/>
+
+  <img height="200px"  src="https://github-stats-extended.vercel.app/api/top-langs?username=IvandeCoelho&layout=compact&langs_count=7&theme=dark&custom_title=Tecnologias" />
 </p>
 
 ---

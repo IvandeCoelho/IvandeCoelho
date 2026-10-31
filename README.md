@@ -10,6 +10,28 @@ Sou **professor e desenvolvedor**, apaixonado por tecnologia, programação e ed
 
 Utilizo a tecnologia como ferramenta para criar soluções, desenvolver projetos e compartilhar conhecimentos. Neste perfil, você encontrará projetos pessoais e acadêmicos, aplicações e experimentos relacionados ao desenvolvimento de software.
 
+## 📫 Entre em contato
+
+Fique à vontade para conhecer meus projetos, trocar experiências ou entrar em contato.
+
+<p align="left">
+  <a href="https://www.youtube.com/@IvandeCoelho">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ivande.coelho/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:ivandealveslp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ivande-coelho-735a41201">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/Coellho">
+    <img src="https://img.shields.io/badge/CodePen-222222?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+</p>
+
 ## 🚀 Projetos em destaque
 
 ### 1. [EasyBlock](https://github.com/IvandeCoelho/EasyBlock)
@@ -49,6 +71,7 @@ Permite gerar senhas personalizadas de acordo com os critérios definidos pelo u
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -58,12 +81,11 @@ Permite gerar senhas personalizadas de acordo com os critérios definidos pelo u
 ![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-FF6F61?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-181717?style=for-the-badge&logo=markdown&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-F7DF1E?style=for-the-badge&logo=linux&logoColor=black)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Coellho)
-
+![CodePen](https://img.shields.io/badge/CodePen-181717?style=for-the-badge&logo=codepen&logoColor=white)
 <br>
 
 ## 📊 Estatísticas do GitHub
@@ -73,28 +95,5 @@ Permite gerar senhas personalizadas de acordo com os critérios definidos pelo u
 
   <img height="200px"  src="https://github-stats-extended.vercel.app/api/top-langs?username=IvandeCoelho&layout=compact&langs_count=7&theme=dark&custom_title=Tecnologias" />
 </p>
-
----
-
-## 📫 Entre em contato
-
-Fique à vontade para conhecer meus projetos, trocar experiências ou entrar em contato.
-
-<p align="left">
-  <a href="https://www.youtube.com/@IvandeCoelho">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/ivande.coelho/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:ivandealveslp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ivande-coelho-735a41201">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
 
 **Obrigado pela visita!** Explore meus projetos e fique à vontade para contribuir com sugestões e melhorias. 🚀
